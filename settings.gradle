@@ -1,0 +1,3 @@
+rootProject.name = 'training-reactive-commons'
+include 'mongodb'
+
